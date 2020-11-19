@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LouisPhilippe_Loeckx_SwapArray", "LouisPhilippe_Loeckx_SwapArray\LouisPhilippe_Loeckx_SwapArray.csproj", "{7C6CCE58-35A9-4824-AFAE-F32FAE2FCB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6CCE58-35A9-4824-AFAE-F32FAE2FCB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6CCE58-35A9-4824-AFAE-F32FAE2FCB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6CCE58-35A9-4824-AFAE-F32FAE2FCB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6CCE58-35A9-4824-AFAE-F32FAE2FCB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A8238EC-8526-4EC0-ACC9-96CCC439D28A}
+	EndGlobalSection
+EndGlobal
