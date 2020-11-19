@@ -10,10 +10,13 @@ namespace LouisPhilippe_Loeckx_SwapArray
             int[] firstArray = { 1,2,3,4,5,6 };
             int[] secondArray = { 6,5,4,3,2,1 };
 
+            Console.WriteLine("First Array:");
             foreach (var ArrayOneNumber in firstArray)
             {
                 Console.Write(ArrayOneNumber + " ");
             }
+
+            Console.WriteLine("Second Array:");
             foreach (var item in secondArray)
             {
                 Console.Write(item + " ");
@@ -29,10 +32,12 @@ namespace LouisPhilippe_Loeckx_SwapArray
 
             Console.WriteLine();
 
+            Console.WriteLine("First Array:");
             foreach (var ArrayOneNumber in firstArray)
             {
                 Console.Write(ArrayOneNumber + " ");
             }
+            Console.WriteLine("Second Array:");
             foreach (var item in secondArray)
             {
                 Console.Write(item + " ");
